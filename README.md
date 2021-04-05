@@ -9,7 +9,7 @@
 <a target="_blank" href="http://makeapullrequest.com" title="PRs Welcome"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
 </p>
 
-> The finest NBA CLI.
+> The finest NBA CLI (Forked for EECS 481 Project 6).
 
 Watch NBA live play-by-play, game preview, box score and player information on your console.  
 Best CLI tool for those who are both **NBA fans** and **Engineers**.
